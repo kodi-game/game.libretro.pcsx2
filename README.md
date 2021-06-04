@@ -1,0 +1,1 @@
+# game.libretro.pcsx2
